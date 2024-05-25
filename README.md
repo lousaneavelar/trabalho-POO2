@@ -1,6 +1,6 @@
 ## POO, SOLID + JUnit
 
-# Trabalho feito para a disciplina de Programação Orientada a Objetos 2 da faculdade, tendo como objetivo avaliar o conhecimento e domínio em relação à aplicação dos cincos princípios de desenvolvimento de software (SOLID) para criar códigos limpos e fáceis demanter. Além de avaliar também em relação ao uso da implementação voltada a testes, usando o fremework de teste JUnit.
+Trabalho feito para a disciplina de Programação Orientada a Objetos 2 da faculdade, tendo como objetivo avaliar o conhecimento e domínio em relação à aplicação dos cincos princípios de desenvolvimento de software (SOLID) para criar códigos limpos e fáceis demanter. Além de avaliar também em relação ao uso da implementação voltada a testes, usando o fremework de teste JUnit.
 
 PROJETO: Universidade
 CARACTERISTICAS:  
