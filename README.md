@@ -2,11 +2,11 @@
 
 Trabalho feito para a disciplina de Programação Orientada a Objetos 2 da faculdade, tendo como objetivo avaliar o conhecimento e domínio em relação à aplicação dos cincos princípios de desenvolvimento de software (SOLID) para criar códigos limpos e fáceis demanter. Além de avaliar também em relação ao uso da implementação voltada a testes, usando o fremework de teste JUnit.
 
-## PROJETO: 
+## PROJETO 
 
 ➢ Universidade
 
-## CARACTERISTICAS:  
+## CARACTERISTICAS  
 
 ➢ Cadastrar Campos de Universidade que terá como atributo um nome e endereço (Rua/AV,
 número, Bairro, CEP, complemento).
@@ -22,7 +22,7 @@ lecionadas.
 ➢ Cadastrar uma Matéria que terá como atributo área de ensino, nome da matéria, campos de
 Universidade, professor, lita de alunos, lista de notas do aluno.
 
-## O usuário deve ser capaz de:
+## O usuário deve ser capaz de
 
 ➢ Consultar a matéria;
 
